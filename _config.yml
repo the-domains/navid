@@ -1,7 +1,7 @@
 name: navid
 favicon: null
-layout_spectrum: 0.9623000817373395
-typography_spectrum: 0.23197540314868093
+layout_spectrum: 0.35146
+typography_spectrum: 0.43004
 title: Navid Nakhjiri PhD
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
+    - '#0b0a06'
+    - '#fdfcf7'
+    - '#404040'
+    - '#857c75'
+    - '#d8372f'
   brandStrength: 0.9485320337116718
   lightness: 0.3130024776328355
   saturation: 0.49933720799162984
