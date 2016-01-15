@@ -1,0 +1,28 @@
+name: navid
+favicon: null
+layout_spectrum: 0.9623000817373395
+typography_spectrum: 0.23197540314868093
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.9485320337116718
+  lightness: 0.3130024776328355
+  saturation: 0.49933720799162984
+  rhythmicContrast: 0.3190275945235044
+purpose: []
