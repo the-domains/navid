@@ -1,29 +1,41 @@
-name: navid
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.43004
 title: Navid Nakhjiri PhD
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.4993372079916298
+  brandStrength: 0.9485320337116718
+  rhythmicContrast: 0.3190275945235044
   brandColors:
     - '#0b0a06'
     - '#fdfcf7'
     - '#404040'
     - '#857c75'
     - '#d8372f'
-  brandStrength: 0.9485320337116718
   lightness: 0.3130024776328355
-  saturation: 0.49933720799162984
-  rhythmicContrast: 0.3190275945235044
-purpose: []
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: navid
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.5430108
+layout_spectrum: 1
