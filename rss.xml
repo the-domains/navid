@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Navid Nakhjiri PhD]]></title>
         <description><![CDATA[Navid Nakhjiri PhD]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/navid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 18:37:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 28 Feb 2016 07:10:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/navid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>This is a test for the website. I like to see if I can get access to the html code on the GitHub source.</p>]]></description>
-            <link>undefined441e6f12-b44b-445b-ad89-dd898b9145e5/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2010f42-669e-4191-92f9-283d47178746.JPG">]]></description>
+            <link>https://thegrid.ai/navid/441e6f12-b44b-445b-ad89-dd898b9145e5/index.html</link>
             <guid isPermaLink="false">441e6f12-b44b-445b-ad89-dd898b9145e5</guid>
-            <pubDate>Fri, 19 Feb 2016 18:36:51 GMT</pubDate>
+            <pubDate>Sun, 28 Feb 2016 07:10:07 GMT</pubDate>
         </item>
     </channel>
 </rss>
